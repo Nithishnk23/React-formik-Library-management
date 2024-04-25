@@ -20,7 +20,7 @@ You may also see any lint errors in the console.
 
 ###
 
- <p align="1eft">Netlify Demo : https://cheery-gelato-a1b3d3.netlify.app</p>   
+ <p align="1eft">Netlify Demo : http://precious-mooncake-fda5cc.netlify.app</p>   
 
 
 ## Usage
