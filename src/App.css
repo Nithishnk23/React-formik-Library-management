@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap");
+body {
+  background-color: rgb(48, 48, 48);
+  font-family: "Josefin Sans", sans-serif;
+  background-image: url(https://img.freepik.com/free-vector/magic-school-library-room-with-fantasy-wizard-book_107791-27459.jpg?w=1380&t=st=1714031595~exp=1714032195~hmac=cd69cb76e99967f9cfd645d85118c6dd40e2b997df56a6f4c0c1149e29701b66.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  font-weight: bolder;
+  color: rgb(20, 16, 24);
+
+  overflow: hidden;
+  object-fit: cover;
+}
+.gradient-bg {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#f0f007, #740606);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradient-bg2 {
+  font-weight: bolder;
+  font-size: 35px;
+  background: -webkit-linear-gradient(#e8e7e6ee, #37d4d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
